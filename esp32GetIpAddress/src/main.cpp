@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // TODO: Replace with your network credentials
-const char *ssid = "yourNetworkName";
-const char *password = "yourNetworkPassword";
+const char *ssid = "iot";
+const char *password = "iotisis;";
 
 void setup()
 {
